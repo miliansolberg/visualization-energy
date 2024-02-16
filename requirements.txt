@@ -3,3 +3,5 @@ polars
 ruff
 seaborn
 matplotlib
+googletrans
+pyarrow
